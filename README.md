@@ -33,10 +33,11 @@
 <h3>My GitHub Stats</h3>
 <br>
 
-
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Rafael-jr34&show_icons=true&theme=dark&locale=en" alt="Rafael-jr34" /></p>
+<p><img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+</p>
 <br><br><br><br><br><br><br><br><br><br>
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Rafael-jr34&theme=dark" alt="Rafael-jr34" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 <hr width="60%" >
